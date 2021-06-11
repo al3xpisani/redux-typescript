@@ -44,3 +44,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+
+
+
+
+
+
+Components will communicate only with only one (index.ts)
+
+
+![image](https://user-images.githubusercontent.com/14879580/121730452-13d51880-cac6-11eb-8a3c-4360b13dc9df.png)
+
